@@ -1,4 +1,5 @@
 Hate Speech Detection Project
+
 Project Overview
 This repository contains code and resources for detecting hate speech in text data. The primary goal is to build a machine learning model capable of accurately identifying and classifying text content that promotes or incites hatred, discrimination, or violence.
 Key Features
