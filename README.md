@@ -25,10 +25,4 @@ Clone the Repository:
    Train the selected machine learning models on the preprocessed data.
  * Evaluation:
    Evaluate the trained models using appropriate metrics.
- 
-│   ├── metrics.py
-├── deployment/
-│   ├── app.py
-├── README.md
-Contributions
-Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit a pull request
+
