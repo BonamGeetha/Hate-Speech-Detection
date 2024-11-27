@@ -25,24 +25,7 @@ Clone the Repository:
    Train the selected machine learning models on the preprocessed data.
  * Evaluation:
    Evaluate the trained models using appropriate metrics.
- * Deployment (Optional):
-   Consider deploying the best-performing model into a web application, API, or other real-world context.
-   Project Structure
-hate-speech-detection/
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── preprocessing/
-│   ├── clean_text.py
-│   └── tokenize.py
-├── features/
-│   ├── n_grams.py
-│   └── tf_idf.py
-├── models/
-│   ├── naive_bayes.py
-│   ├── svm.py
-│   └── ...
-├── evaluation/
+ 
 │   ├── metrics.py
 ├── deployment/
 │   ├── app.py
